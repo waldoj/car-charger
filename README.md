@@ -5,7 +5,7 @@ Figuring out how to wire up an electric car charger.
 
 * Multimeter
 * Noncontact voltage tester
-* 2 meters of Romex
+* 2 meters of [Romex](https://github.com/waldoj/car-charger/issues/2)
 * 1 40 amp fuse
 * silicon caulk
 * drill
@@ -16,9 +16,10 @@ Figuring out how to wire up an electric car charger.
 
 ## Steps
 
+1. [Get a permit](https://github.com/waldoj/car-charger/issues/3).
 1. Move the shelf aside, leaving ~80 centimeters in which to work.
 1. Shut off the breaker at the house.
-1. Manually disconnect incoming power from the solar panels.
+1. [Manually disconnect incoming power from the solar panels](https://github.com/waldoj/car-charger/issues/5).
 1. Test that power does not work in the shed.
 1. Turn off the main disconnect.
 1. Turn off the breaker for the solar panels.
@@ -28,17 +29,18 @@ Figuring out how to wire up an electric car charger.
 1. Affix the positive and negative wires to the breaker.
 1. Affix the ground wire to the ground.
 1. Install the 40 amp breaker.
-1. Clamp the wire at the entrance to the subpanel.
+1. [Clamp the wire](https://github.com/waldoj/car-charger/issues/8) at the entrance to the subpanel.
 1. Remove the wall panel below the subpanel and pull back the insulation.
 1. Run the Romex down the wall, attaching it to the side of a stud with stapes.
-1. Locate a stud to mount the charger to.
+1. Locate a stud to mount the charger to, at [an appropriate distance from the subpanel](https://github.com/waldoj/car-charger/issues/1).
 1. As necessary, use an auger bit to drill through any intervening studs to reach the identifed stud.
+1. [Affix Romex to studs/wall](https://github.com/waldoj/car-charger/issues/1).
 1. Measure to the code-prescribed height above the ground for the cable exit.
-1. Drill a hole through the wall, at the diameter of the Romex, immediately adjacent to the stud.
+1. [Drill a hole through the wall](https://github.com/waldoj/car-charger/issues/7), at the diameter of the Romex, immediately adjacent to the stud.
 1. Feed the Romex through the wall.
 1. Affix the charger-mount to the exterior wall.
 1. Cut off the Romex, leaving a length of perhaps 20 centimeters, verifying that the amount can be coiled up inside of the charger when it's hanging on the wall.
-1. Affix the feed-through bushing to the exterior wall.
+1. Affix [the feed-through bushing](https://github.com/waldoj/car-charger/issues/4) to the exterior wall.
 1. Apply silicon caulk around the feed-through bushing.
 1. Screw three strands of the Romex into the charger terminals.
 1. Hang the charger on its mount.
