@@ -26,6 +26,7 @@ Figuring out how to wire up an electric car charger.
 1. Strip the ends of the Romex, exposing 3 centimeters.
 1. Affix the positive and negative wires to the breaker.
 1. Affix the ground wire to the ground.
+1. Clamp the wire at the entrance to the subpanel.
 1. Remove the wall panel below the subpanel and pull back the insulation.
 1. Run the Romex down the wall, attaching it to the side of a stud with stapes.
 1. Locate a stud to mount the charger to.
