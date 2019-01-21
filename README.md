@@ -31,13 +31,14 @@ Figuring out how to wire up an electric car charger.
 1. Install the 40 amp breaker.
 1. [Clamp the wire](https://github.com/waldoj/car-charger/issues/8) at the entrance to the subpanel.
 1. Remove the wall panel below the subpanel and pull back the insulation.
-1. Run the Romex down the wall, attaching it to the side of a stud with stapes.
+1. Run the Romex down the wall, attaching it to the side of a stud with staples, being sure to secure it within 30 cm of the subpanel.
 1. Locate a stud to mount the charger to, at [an appropriate distance from the subpanel](https://github.com/waldoj/car-charger/issues/1).
 1. As necessary, use an auger bit to drill through any intervening studs to reach the identifed stud.
 1. [Affix Romex to studs/wall](https://github.com/waldoj/car-charger/issues/1).
 1. Measure to the code-prescribed height above the ground for the cable exit.
 1. [Drill a hole through the wall](https://github.com/waldoj/car-charger/issues/7), at the diameter of the Romex, immediately adjacent to the stud.
 1. Feed the Romex through the wall.
+1. Ensure that the Romex is secured to the wall within 30 cm of the exit point.
 1. Affix the charger-mount to the exterior wall.
 1. Cut off the Romex, leaving a length of perhaps 20 centimeters, verifying that the amount can be coiled up inside of the charger when it's hanging on the wall.
 1. Affix [the feed-through bushing](https://github.com/waldoj/car-charger/issues/4) to the exterior wall.
